@@ -1,3 +1,3 @@
-# Official dark solarized colorscheme
+# Smyck Color Scheme
 
-http://ethanschoonover.com/solarized
+http://color.smyck.org/
